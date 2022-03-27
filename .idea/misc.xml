@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-security-demo-02-basic-security/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-security-demo-03-custom-login-form/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-security-demo-04-bootstrap-login-form/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-security-demo-05-logout/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-security-demo-06-csrf/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-security-demo-07-user-roles/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-security-demo-08-jdbc-plaintext/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-security-demo-09-jdbc-bcrypt/pom.xml" />
+        <option value="$PROJECT_DIR$/../jackson-databind-json-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-rest-demo/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/spring-security-demo-01-base-app/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
